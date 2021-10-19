@@ -12,9 +12,14 @@ public class createcontactTest
 	System.out.println("execute createcontact");
 	}
 	
-
+@Test
 	public void editTest() 
 	{
 		System.out.println("execute createcontact");
 	}
+@Test
+public void copytest() 
+{
+	System.out.println("execute copy statement");
+}
 }
